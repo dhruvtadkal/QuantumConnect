@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes borderPulse {
+  0% {
+    border-color: #a7c7e7; /* Starting color */
+  }
+  50% {
+    border-color: #f7cac9; /* Midway color */
+  }
+  100% {
+    border-color: #c3e5ae; /* Ending color */
+  }
+}
+
+.animated-border {
+  border-width: 4px;
+  border-style: solid;
+  animation: borderPulse 3s infinite;
+}

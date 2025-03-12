@@ -1,0 +1,314 @@
+0:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 1
+    - 1
+  - !!python/tuple
+    - 2
+    - 1.4142135623730951
+1:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 0
+    - 1
+  - !!python/tuple
+    - 2
+    - 1
+  - !!python/tuple
+    - 4
+    - 1.4142135623730951
+  - !!python/tuple
+    - 5
+    - 1
+  - !!python/tuple
+    - 6
+    - 1.4142135623730951
+2:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 0
+    - 1.4142135623730951
+  - !!python/tuple
+    - 1
+    - 1
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 5
+    - 1.4142135623730951
+  - !!python/tuple
+    - 6
+    - 1
+  - !!python/tuple
+    - 7
+    - 1.4142135623730951
+3:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 2
+    - 1
+  - !!python/tuple
+    - 6
+    - 1.4142135623730951
+  - !!python/tuple
+    - 7
+    - 1
+4:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 1
+    - 1.4142135623730951
+  - !!python/tuple
+    - 5
+    - 1
+  - !!python/tuple
+    - 8
+    - 1.4142135623730951
+5:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 1
+    - 1
+  - !!python/tuple
+    - 2
+    - 1.4142135623730951
+  - !!python/tuple
+    - 4
+    - 1
+  - !!python/tuple
+    - 6
+    - 1
+6:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 1
+    - 1.4142135623730951
+  - !!python/tuple
+    - 2
+    - 1
+  - !!python/tuple
+    - 3
+    - 1.4142135623730951
+  - !!python/tuple
+    - 5
+    - 1
+  - !!python/tuple
+    - 7
+    - 1
+7:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 2
+    - 1.4142135623730951
+  - !!python/tuple
+    - 3
+    - 1
+  - !!python/tuple
+    - 6
+    - 1
+8:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 4
+    - 1.4142135623730951
+  - !!python/tuple
+    - 9
+    - 1
+9:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 8
+    - 1
+  - !!python/tuple
+    - 10
+    - 1.4142135623730951
+  - !!python/tuple
+    - 11
+    - 1
+10:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 9
+    - 1.4142135623730951
+  - !!python/tuple
+    - 11
+    - 1
+11:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 9
+    - 1
+  - !!python/tuple
+    - 10
+    - 1
+12:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 14
+    - 1
+13:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 15
+    - 1
+14:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 12
+    - 1
+15:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 13
+    - 1
+  - !!python/tuple
+    - 17
+    - 1
+16:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 18
+    - 1.4142135623730951
+  - !!python/tuple
+    - 19
+    - 1
+  - !!python/tuple
+    - 20
+    - 1.4142135623730951
+17:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 15
+    - 1
+  - !!python/tuple
+    - 21
+    - 1
+18:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 16
+    - 1.4142135623730951
+  - !!python/tuple
+    - 19
+    - 1
+  - !!python/tuple
+    - 22
+    - 1.4142135623730951
+19:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 16
+    - 1
+  - !!python/tuple
+    - 18
+    - 1
+  - !!python/tuple
+    - 20
+    - 1
+  - !!python/tuple
+    - 22
+    - 1
+20:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 16
+    - 1.4142135623730951
+  - !!python/tuple
+    - 19
+    - 1
+  - !!python/tuple
+    - 22
+    - 1.4142135623730951
+  - !!python/tuple
+    - 23
+    - 1.4142135623730951
+21:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 17
+    - 1
+22:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 18
+    - 1.4142135623730951
+  - !!python/tuple
+    - 19
+    - 1
+  - !!python/tuple
+    - 20
+    - 1.4142135623730951
+23:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 20
+    - 1.4142135623730951
+  - !!python/tuple
+    - 24
+    - 1
+24:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 23
+    - 1
+  - !!python/tuple
+    - 25
+    - 1
+25:
+- null
+- .inf
+- false
+- - !!python/tuple
+    - 24
+    - 1

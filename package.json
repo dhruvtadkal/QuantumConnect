@@ -1,0 +1,47 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cookies-next": "^5.0.2",
+    "cors": "^2.8.5",
+    "daisyui": "^4.12.14",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "firebase": "^11.2.0",
+    "formidable": "^3.5.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.4",
+    "next": "latest",
+    "nookies": "^2.5.2",
+    "postcss": "^8.4.49",
+    "react": "18.2.0",
+    "react-calendar": "^5.1.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^5.3.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "tailwindcss": "^3.4.15"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "name": "scholar-connect",
+  "version": "1.0.0",
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
